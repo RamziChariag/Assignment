@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	LE
+	
+IMM	0.344***
+	(0.0348)
+Constant	42.06***
+	(3.077)
+	
+Observations	177
+R-squared	0.358
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

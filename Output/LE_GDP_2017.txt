@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	LE
+	
+GDP	0.000263***
+	(2.34e-05)
+Constant	68.61***
+	(0.536)
+	
+Observations	177
+R-squared	0.419
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
